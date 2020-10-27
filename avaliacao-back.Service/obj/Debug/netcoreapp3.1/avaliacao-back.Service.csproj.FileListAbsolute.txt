@@ -1,0 +1,14 @@
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Service.deps.json
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Service.dll
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Service.pdb
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Domain.dll
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Repository.dll
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Repository.pdb
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\bin\Debug\netcoreapp3.1\avaliacao-back.Domain.pdb
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.csprojAssemblyReference.cache
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.AssemblyInfoInputs.cache
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.AssemblyInfo.cs
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.csproj.CoreCompileInputs.cache
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.csproj.CopyComplete
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.dll
+C:\Git\_Global\avaliacao-back\avaliacao-back.Service\obj\Debug\netcoreapp3.1\avaliacao-back.Service.pdb

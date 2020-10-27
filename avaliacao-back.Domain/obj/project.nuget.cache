@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Pu8mvTJuFwmsKpicXuzg7QQxjLPh+9S8o+KMakb3zGsSL/YV0Wjb8mmN1F238Au08v7M20SNWV7yrka3PWSSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\_Global\\avaliacao-back\\avaliacao-back.Domain\\avaliacao-back.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
